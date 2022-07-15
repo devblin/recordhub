@@ -1,0 +1,14 @@
+{
+  "name": "depot",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup:server": "cd server && npm install",
+    "setup:client": "cd client && npm install",
+    "start:server:dev": "NODE_ENV=dev cd server && npm run start:dev",
+    "start:client:dev": "cd client && npm run start:dev"
+  },
+  "author": "devblin",
+  "license": "ISC"
+}
