@@ -9,6 +9,9 @@ A small web-application built using TypeScript, NestJS for backend and HTML, CSS
 * SQLite
 
 ## Usage:
+
+#### **Applcation Live At:** https://recordhub.herokuapp.com
+
 1. Authroize Github to proceed.
 ![](https://i.imgur.com/TCxKnyS.png)
 
